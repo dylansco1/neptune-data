@@ -1,0 +1,424 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="BBC One Scotland High Definition" tvg-language="English" tvg-chno=101,BBC One Scotland High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162223.ts
+
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="BBC Two High Definition" tvg-language="English" tvg-chno=102,BBC Two High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162196.ts
+
+#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="STV Central High Definition" tvg-language="English" tvg-chno=103,STV Central High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162270.ts
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 High Definition" tvg-language="English" tvg-chno=104,Channel 4 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717676.ts
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 High Definition" tvg-language="English" tvg-chno=105,Channel 5 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717674.ts
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase High Definition" tvg-language="English" tvg-chno=106,Sky Showcase High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/304725.ts
+
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness High Definition" tvg-language="English" tvg-chno=107,Sky Witness High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639169.ts
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic High Definition" tvg-language="English" tvg-chno=108,Sky Atlantic High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639165.ts
+
+#EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="U&Alibi High Definition" tvg-language="English" tvg-chno=109,U&Alibi High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639165.ts
+
+#EXTINF:-1 tvg-id="UAndGold.uk" tvg-name="U&Gold High Definition" tvg-language="English" tvg-chno=110,U&Gold High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527662.ts
+
+#EXTINF:-1 tvg-id="UAndDave.uk" tvg-name="U&Dave High Definition" tvg-language="English" tvg-chno=111,U&Dave High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162267.ts
+
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central High Definition" tvg-language="English" tvg-chno=112,Comedy Central High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162277.ts
+
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="Sky Max High Definition" tvg-language="English" tvg-chno=113,Sky Max High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/304727.ts
+
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy High Definition" tvg-language="English" tvg-chno=114,Sky Comedy High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/304727.ts
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three High Definition" tvg-language="English" tvg-chno=121,BBC Three High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1525674.ts
+
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland High Definition" tvg-language="English" tvg-chno=115,BBC Scotland High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162221.ts
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four High Definition" tvg-language="English" tvg-chno=116,BBC Four High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1525667.ts
+
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBC Alba High Definition" tvg-language="English" tvg-chno=117,BBC Alba High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162175.ts
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel High Definition" tvg-language="English" tvg-chno=126,Discovery Channel High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/910033.ts
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 Standard Definition" tvg-language="English" tvg-chno=118,ITV 2 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717679.ts
+
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3 Standard Definition" tvg-language="English" tvg-chno=119,ITV 3 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717678.ts
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 Standard Definition" tvg-language="English" tvg-chno=120,ITV 4 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717677.ts
+
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="Sky Documentaries High Definition" tvg-language="English" tvg-chno=122,Sky Documentaries High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527700.ts
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="Sky Crime High Definition" tvg-language="English" tvg-chno=123,Sky Crime High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162383.ts
+
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts High Definition" tvg-language="English" tvg-chno=125,Sky Arts High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162254.ts
+
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History High Definition" tvg-language="English" tvg-chno=124,Sky History High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527694.ts
+
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV High Definition" tvg-language="English" tvg-chno=127,MTV High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162401.ts
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5STAR High Definition" tvg-language="English" tvg-chno=129,5STAR High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162291.ts
+
+#EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="National Geographic" tvg-language="English" tvg-chno=130,National Geographic High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162380.ts
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge Standard Definition" tvg-language="English" tvg-chno=131,Challenge Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162302.ts
+
+#EXTINF:-1 tvg-id="ITVQuiz.uk" tvg-name="ITV Quiz High Definition" tvg-language="English" tvg-chno=132,ITV Quiz High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1692712.ts
+
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC High Definition" tvg-language="English" tvg-chno=134,TLC High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262717.ts
+
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 High Definition" tvg-language="English" tvg-chno=136,E4 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162115.ts
+
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 High Definition" tvg-language="English" tvg-chno=137,More4 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717673.ts
+
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven High Definition" tvg-language="English" tvg-chno=138,4seven High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162174.ts
+
+#EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="E4Extra High Definition" tvg-language="English" tvg-chno=139,E4Extra High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/646004.ts
+
+#EXTINF:-1 tvg-id="CrimeInvestigation.uk" tvg-name="Crime + Investigation High Definition" tvg-language="English" tvg-chno=140,Crime + Investigation High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/646004.ts
+
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest High Definition" tvg-language="English" tvg-chno=141,Quest High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162272.ts
+
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA Standard Definition" tvg-language="English" tvg-chno=169,5USA Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162294.ts
+
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really Standard Definition" tvg-language="English" tvg-chno=142,Really Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162307.ts
+
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama Standard Definition" tvg-language="English" tvg-chno=143,U&Drama Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162300.ts
+
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network Standard Definition" tvg-language="English" tvg-chno=144,Food Network Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262722.ts
+
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="Sky Nature High Definition" tvg-language="English" tvg-chno=145,Sky Nature High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527688.ts
+
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime Standard Definition" tvg-language="English" tvg-chno=146,True Crime Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1537389.ts
+
+#EXTINF:-1 tvg-id="TrueCrimeXtra.uk" tvg-name="True Crime Xtra Standard Definition" tvg-language="English" tvg-chno=147,True Crime Xtra Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1537388.ts
+
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="Legend Standard Definition" tvg-language="English" tvg-chno=148,Legend Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/405366.ts
+
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red Standard Definition" tvg-language="English" tvg-chno=149,Quest Red Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262720.ts
+
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION Standard Definition" tvg-language="English" tvg-chno=150,5ACTION Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/646005.ts
+
+#EXTINF:-1 tvg-id="SkySciFi.uk" tvg-name="Sky Sci-Fi High Definition" tvg-language="English" tvg-chno=152,Sky Sci-Fi High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527682.ts
+
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="5SELECT Standard Definition" tvg-language="English" tvg-chno=153,5SELECT Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162293.ts
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery Standard Definition" tvg-language="English" tvg-chno=154,Investigation Discovery Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162396.ts
+
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday Standard Definition" tvg-language="English" tvg-chno=155,U&Yesterday Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162301.ts
+
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze Standard Definition" tvg-language="English" tvg-chno=156,Blaze Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162259.ts
+
+#EXTINF:-1 tvg-id="GreatTV.uk" tvg-name="Great! TV Standard Definition" tvg-language="English" tvg-chno=157,Great! TV Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/339840.ts
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo Standard Definition" tvg-language="English" tvg-chno=162,Discovery Turbo Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262727.ts
+
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX Standard Definition" tvg-language="English" tvg-chno=159,DMAX Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262723.ts
+
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History Standard Definition" tvg-language="English" tvg-chno=161,Discovery History Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162388.ts
+
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet Standard Definition" tvg-language="English" tvg-chno=175,Animal Planet Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1537487.ts
+
+#EXTINF:-1 tvg-id="UandEden.uk" tvg-name="U&Eden Standard Definition" tvg-language="English" tvg-chno=166,U&Eden Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162258.ts
+
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science Standard Definition" tvg-language="English" tvg-chno=167,Discovery Science Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262726.ts
+
+#EXTINF:-1 tvg-id="TogetherTV.uk" tvg-name="Together TV Standard Definition" tvg-language="English" tvg-chno=170,Together TV Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/342024.ts
+
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America Standard Definition" tvg-language="English" tvg-chno=173,PBS America Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162315.ts
+
+#EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="Court TV Standard Definition" tvg-language="English" tvg-chno=176,Court TV Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/342033.ts
+
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="Travelxp Standard Definition" tvg-language="English" tvg-chno=178,Travelxp Standard Definition
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STVCentral+1.uk" tvg-name="STV +1 High Definition" tvg-language="English" tvg-chno=204,STV +1 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/283547.ts
+
+#EXTINF:-1 tvg-id="Channel4Plus1.uk" tvg-name="Channel 4 +1 Standard Definition" tvg-language="English" tvg-chno=204,Channel 4 +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/405370.ts
+
+#EXTINF:-1 tvg-id="5Plus1.uk" tvg-name="5 +1 Standard Definition" tvg-language="English" tvg-chno=205,5 +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162138.ts
+
+#EXTINF:-1 tvg-id="UandAlibiPlus1.uk" tvg-name="U&Alibi +1 Standard Definition" tvg-language="English" tvg-chno=209,U&Alibi +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162134.ts
+
+#EXTINF:-1 tvg-id="UandGoldPlus1.uk" tvg-name="U&Gold +1 Standard Definition" tvg-language="English" tvg-chno=210,U&Gold +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162281.ts
+
+#EXTINF:-1 tvg-id="DiscoveryPlus1.uk" tvg-name="Discovery Channel +1 Standard Definition" tvg-language="English" tvg-chno=225,Discovery Channel +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162393.ts
+
+#EXTINF:-1 tvg-id="NatGeoPlus1.uk" tvg-name="National Geographic +1 Standard Definition" tvg-language="English" tvg-chno=229,National Geographic +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/402155.ts
+
+#EXTINF:-1 tvg-id="E4Plus1.uk" tvg-name="E4 +1 Standard Definition" tvg-language="English" tvg-chno=236,E4 +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/632691.ts
+
+#EXTINF:-1 tvg-id="QuestPlus1.uk" tvg-name="Quest +1 Standard Definition" tvg-language="English" tvg-chno=240,Quest +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162321.ts
+
+#EXTINF:-1 tvg-id="5USAPlus1.uk" tvg-name="5USA +1 Standard Definition" tvg-language="English" tvg-chno=241,5USA +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162295.ts
+
+#EXTINF:-1 tvg-id="UandDramaPlus1.uk" tvg-name="U&Drama +1 Standard Definition" tvg-language="English" tvg-chno=243,U&Drama +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/764559.ts
+
+#EXTINF:-1 tvg-id="FoodNetworkPlus1.uk" tvg-name="Food Network +1 Standard Definition" tvg-language="English" tvg-chno=244,Food Network +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162160.ts
+
+#EXTINF:-1 tvg-id="QuestRedPlus1.uk" tvg-name="Quest Red +1 Standard Definition" tvg-language="English" tvg-chno=249,Quest Red +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/262720.ts
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPlus1.uk" tvg-name="Investigation Discovery +1 Standard Definition" tvg-language="English" tvg-chno=254,Investigation Discovery +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/402153.ts
+
+#EXTINF:-1 tvg-id="GreatTVPlus1.uk" tvg-name="Great! TV +1 Standard Definition" tvg-language="English" tvg-chno=257,Great! TV +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/402153.ts
+
+#EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="Discovery Turbo +1 Standard Definition" tvg-language="English" tvg-chno=258,Discovery Turbo +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/402152.ts
+
+#EXTINF:-1 tvg-id="DMAXPlus1.uk" tvg-name="DMAX +1 Standard Definition" tvg-language="English" tvg-chno=259,DMAX +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162314.ts
+
+#EXTINF:-1 tvg-id="DiscoveryHistoryPlus1.uk" tvg-name="Discovery History +1 Standard Definition" tvg-language="English" tvg-chno=272,Discovery History +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/707007.ts
+
+#EXTINF:-1 tvg-id="UandEdenPlus1.uk" tvg-name="U&Eden +1 Standard Definition" tvg-language="English" tvg-chno=266,U&Eden +1 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162286.ts
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News High Definition" tvg-language="English" tvg-chno=501,Sky News High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/717677.ts
+
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV Europe High Definition" tvg-language="English" tvg-chno=502,Bloomberg TV Europe High Definition
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News High Definition" tvg-language="English" tvg-chno=503,BBC News High Definition
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament High Definition" tvg-language="English" tvg-chno=504,BBC Parliament High Definition
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe High Definition" tvg-language="English" tvg-chno=505,CNBC High Definition
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN International High Definition" tvg-language="English" tvg-chno=506,CNN International High Definition
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="Al Jazeera High Definition" tvg-language="English" tvg-chno=511,Al Jazeera High Definition
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News High Definition" tvg-language="English" tvg-chno=512,GB News High Definition
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="Talk TV High Definition" tvg-language="English" tvg-chno=526,Talk TV High Definition
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.uk" tvg-name="Arirang TV High Definition" tvg-language="English" tvg-chno=518,Arirang TV High Definition
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVC.uk" tvg-name="TVC News High Definition" tvg-language="English" tvg-chno=520,TVC News High Definition
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event Ultra High Definition" tvg-language="English" tvg-chno=401,Sky Sports Main Event Ultra High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527639.ts
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League High Definition" tvg-language="English" tvg-chno=402,Sky Sports Premier League High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527637.ts
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football High Definition" tvg-language="English" tvg-chno=403,Sky Sports Football High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527635.ts
+
+#EXTINF:-1 tvg-id="SkySports+.uk" tvg-name="Sky Sports+ High Definition" tvg-language="English" tvg-chno=404,Sky Sports+ High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290305.ts
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket High Definition" tvg-language="English" tvg-chno=405,Sky Sports Cricket High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290288.ts
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf High Definition" tvg-language="English" tvg-chno=406,Sky Sports Golf High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290287.ts
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 Ultra High Definition" tvg-language="English" tvg-chno=407,Sky Sports F1 Ultra High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290286.ts
+
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis High Definition" tvg-language="English" tvg-chno=408,Sky Sports Tennis High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290232.ts
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News High Definition" tvg-language="English" tvg-chno=409,Sky Sports News High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290222.ts
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 High Definition" tvg-language="English" tvg-chno=410,TNT Sports 1 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588077.ts
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 High Definition" tvg-language="English" tvg-chno=411,TNT Sports 2 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588075.ts
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action High Definition" tvg-language="English" tvg-chno=412,Sky Sports Action High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588068.ts
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 High Definition" tvg-language="English" tvg-chno=413,TNT Sports 3 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588010.ts
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 High Definition" tvg-language="English" tvg-chno=414,TNT Sports 4 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588009.ts
+
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing High Definition" tvg-language="English" tvg-chno=415,Sky Sports Racing High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/588036.ts
+
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing High Definition" tvg-language="English" tvg-chno=416,Sky Sports Mix High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1527621.ts
+
+#EXTINF:-1 tvg-id="CelticTV.uk" tvg-name="Celtic TV High Definition" tvg-language="English" tvg-chno=417,Celtic TV High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/607098.ts	
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV High Definition" tvg-language="English" tvg-chno=418,MUTV High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290298.ts
+
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV High Definition" tvg-language="English" tvg-chno=423,LFC TV High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290298.ts
+
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing TV High Definition" tvg-language="English" tvg-chno=424,Racing TV High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290300.ts
+
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="TNT Sports Ultimate High Definition" tvg-language="English" tvg-chno=493,TNT Sports Ultimate High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1290338.ts
+
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1 High Definition" tvg-language="English" tvg-chno=419,Premier Sports 1 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1537415.ts
+
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2 High Definition" tvg-language="English" tvg-chno=420,Premier Sports 2 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/1537414.ts
+
+#EXTINF:-1 tvg-id="TNTSportsBoxOffice.uk" tvg-name="TNT Sports Box Office" tvg-language="English" tvg-chno=490,TNT Sports Box Office
+https://gist.githubusercontent.com/astyugdhjsad/3c9e970544a1119bba2ed50c753db371/raw/inactive.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office" tvg-language="English" tvg-chno=491,Sky Sports Box Office
+https://gist.githubusercontent.com/astyugdhjsad/3c9e970544a1119bba2ed50c753db371/raw/inactive.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="TNT Sports Box Office 2" tvg-language="English" tvg-chno=494,TNT Sports Box Office 2
+https://gist.githubusercontent.com/astyugdhjsad/3c9e970544a1119bba2ed50c753db371/raw/inactive.m3u8
+
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 High Definition" tvg-language="English" tvg-chno=313,Film 4 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162266.ts
+
+#EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance High Definition" tvg-language="English" tvg-chno=319,Great! Romance High Definition
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="Talking Pictures High Definition" tvg-language="English" tvg-chno=328,Talking Pictures TV
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/583338.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere High Definition" tvg-language="English" tvg-chno=301,Sky Cinema Premiere High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162344.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Feel Good (previously "Select") High Definition" tvg-language="English" tvg-chno=302,Sky Cinema Feel Good (previously "Select") High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639182.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats High Definition" tvg-language="English" tvg-chno=304,Sky Cinema Greats High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639178.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits High Definition" tvg-language="English" tvg-chno=303,Sky Cinema Hits High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639179.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaAnimations.uk" tvg-name="Sky Cinema Animations High Definition" tvg-language="English" tvg-chno=305,Sky Cinema Animations High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639173.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family High Definition" tvg-language="English" tvg-chno=306,Sky Cinema Family High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639177.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action High Definition" tvg-language="English" tvg-chno=307,Sky Cinema Action High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639194.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller High Definition" tvg-language="English" tvg-chno=309,Sky Cinema Thriller High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639203.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama High Definition" tvg-language="English" tvg-chno=310,Sky Cinema Drama High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/639196.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy High Definition" tvg-language="English" tvg-chno=308,Sky Cinema Comedy High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162354.ts
+
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema Sci-Fi and Horror High Definition" tvg-language="English" tvg-chno=311,Sky Cinema Sci-Fi and Horror High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162350.ts
+
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies24 Standard Definition" tvg-language="English" tvg-chno=311,Movies24 Standard Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/162350.ts
+
+#EXTINF:-1 tvg-id="TBN.uk" tvg-name="TBN" tvg-language="English" tvg-chno=582,TBN
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-language="English" tvg-chno=601,Cartoon Network HD
+https://a1xs.vip/1000050
+
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC High Definition" tvg-language="English" tvg-chno=660,QVC HD
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty High Definition" tvg-language="English" tvg-chno=663,QVC Beauty High Definition
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra High Definition" tvg-language="English" tvg-chno=671,QVC Extra High Definition
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+
+#EXTINF:-1 tvg-id="HighStreetTV.uk" tvg-name="High Street TV 1 High Definition" tvg-language="English" tvg-chno=666,High Street TV 1 High Definition
+http://cf.shurkjc.com:80/live/bf7f35ec15/0c46e66fdb/342023.ts
