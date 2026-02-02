@@ -1,0 +1,10 @@
+<homepage>
+  <hero>Fallout (2024)</hero>
+  <heroimage>https://raw.githubusercontent.com/dylansco1/neptune-data/refs/heads/main/hero.png</heroimage>
+  <carousel>
+    <channel1>channel1</channel1>
+    <channel2>channel2</channel2>
+    <prog1>Severance (2022)</prog1>
+    <mov>Dune: Part II</mov>
+  </carousel>
+</homepage>
